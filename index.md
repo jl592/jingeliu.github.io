@@ -20,10 +20,7 @@ details {margin-bottom: 20px;}
 
 details[open] {margin-bottom: 0;}
 
-### Content Bias and Information Compression.
-<Details>
-<summary>Abstract.</summary>  I am not sure what this is.
-</Details>
+### Content Bias and Information Compression. <Details> <summary>Abstract.</summary>  I am not sure what this is. </Details>
 
 
 ### Investor Inattention, Information, and Firm Investment.
