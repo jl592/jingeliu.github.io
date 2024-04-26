@@ -12,6 +12,8 @@ I hold a PhD in finance from Fuqua School of Business, Duke University.
 
 Download my [Curriculum Vitae](./another-page.html).
 
+* * *
+
 ## Working Papers
 
 details {margin-bottom: 20px;}
