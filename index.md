@@ -2,6 +2,14 @@
 layout: default
 ---
 
+## About me
+
+I am an Assistant Professor in Finance at City University of Hong Kong.
+
+My research interests include finance theory and information economics, with a focus on limited attention, information acquisition, and learning.
+
+I hold a PhD in finance from Fuqua School of Business, Duke University. 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
