@@ -10,6 +10,8 @@ My research interests include finance theory and information economics, with a f
 
 I hold a PhD in finance from Fuqua School of Business, Duke University. 
 
+Download my [Curriculum Vitae](./another-page.html).
+
 ## Working Papers
 
 Content Bias and Information Compression.
