@@ -14,10 +14,10 @@ Download my [Curriculum Vitae](./another-page.html).
 
 ## Working Papers
 
-Content Bias and Information Compression.
-<Details>
-  I am not sure what this is.
+Content Bias and Information Compression.<Details>
+<summary>Abstract.</summary>  I am not sure what this is.
 </Details>
+
 
 Investor Inattention, Information, and Firm Investment.
 
