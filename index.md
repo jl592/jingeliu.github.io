@@ -14,7 +14,8 @@ Download my [Curriculum Vitae](./another-page.html).
 
 ## Working Papers
 
-Content Bias and Information Compression.<Details>
+Content Bias and Information Compression.
+<Details>
 <summary>Abstract.</summary>  I am not sure what this is.
 </Details>
 
