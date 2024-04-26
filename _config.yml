@@ -4,3 +4,4 @@ description: Assistant Professor in Finance, City University of Hong Kong
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+site.github.is_project_page: false
