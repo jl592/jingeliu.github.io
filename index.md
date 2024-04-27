@@ -10,7 +10,7 @@ My research interests include finance theory and information economics, with a f
 
 I hold a PhD in finance from Fuqua School of Business, Duke University. 
 
-Download my [Curriculum Vitae](./another-page.html).
+Download my [Curriculum Vitae](https://www.dropbox.com/scl/fi/yudvxs2udl7bjs8htsnvj/CV-Jinge.pdf?rlkey=0rdp5kd577nq9mpgndrh8wwwo&dl=0).
 
 * * *
 
